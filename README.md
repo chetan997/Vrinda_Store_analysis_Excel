@@ -1,6 +1,8 @@
 # Vrinda_Store_analysis_Excel
 
 Client's Objective - Vrinda store wants to create an annual report for 2022. So that, Vrinda can understand their customers and grow more sales in 2023.
+
+
 Sample Questions --
 Q1 - Compare the sales and orders using single chart.
 Q2 - Which month got the highest sales and orders?
